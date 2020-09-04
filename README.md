@@ -1,4 +1,6 @@
 # MMOD_Minder
+(Team hackathon project.)
+
 This is an Image Processing program written in MATLAB which compares two images and locates the points of inequalities.
 
 This program compares each pixel of the given two images and generates a damage mask where irregularities show up as white dots at the location of defects.
